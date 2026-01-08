@@ -30,9 +30,9 @@ global.NomeDoBot = "𝐀𝐤𝐚𝐦𝐞 𝐛𝐨𝐭" //NICK DONO
 
 global.linkgrupss = "https://chat.whatsapp.com/FykVpB0XocLFXPuaMsIrEr" // LINK DO SEU GRUPO DO WHATSAPP
 
-global.prefix = "/" //ALTERAÇÃO DO PREFIXO DO BOT
+global.prefix = "!" //ALTERAÇÃO DO PREFIXO DO BOT
 
-global.NickDono = "𝕸.𝕾𝖈𝖍𝖊𝖞𝖔𝖙" //NICK DONO
+global.NickDono = "Nana" //NICK DONO
 
 global.websitex = "https://youtube.com/@MarcioScheyot" //SEU CANAL DO YOUTUBE
 
@@ -50,7 +50,7 @@ global.packname = "© Copyright by AKAME-MD" //MARCA D'ÁGUA
 
 global.packname2 = `https://youtube.com/@MarcioScheyot` //SEU CANAL DO YOUTUBE 
 
-global.author = "𝕸.𝕾𝖈𝖍𝖊𝖞𝖔𝖙" //SEU NOME AQUI
+global.author = "Nana" //SEU NOME AQUI
 
 global.sessionName = "conexão akame" // NÃO ALTERE AQUI...
 
